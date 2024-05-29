@@ -1,5 +1,7 @@
-Seja bem vindo(a) ao meu perfil
-Meu nome é Yasmin Moura
+Yasmin Moura de Souza
+Rua Vlademir Cardoso Gonçalves nº499
+(11)98632-5186
+yasminmouradesouza2619@gmail.com
 
 Cursando no Professor João Borges
 Estudou no Colégio Cristão Flórida e no Recanto Verde do Sol
@@ -12,10 +14,7 @@ Aprovada para o Bolshoi
 Pré-formação em Marketing Digital
 Desenvolvendo na linguagem JavaScript
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-Você pode entrar em contato comigo 📫
+Diretora e adm da Empresa de Mareting Digital (Agência Comecei)
 
-<!---
-yamoura/yamoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
