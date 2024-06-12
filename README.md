@@ -6,10 +6,10 @@ yasminmouradesouza2619@gmail.com
 Cursando no Professor João Borges
 Estudou no Colégio Cristão Flórida e no Recanto Verde do Sol
 
-Bailarina profissional, atua na área tem 10 anos, profissionalmente 2 anos
-Faz jazz, Ballet Clássico e Contemporâneo
-Professora de Ballet Adulto
-Aprovada para o Bolshoi
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
 
 Pré-formação em Marketing Digital
 Desenvolvendo na linguagem JavaScript
